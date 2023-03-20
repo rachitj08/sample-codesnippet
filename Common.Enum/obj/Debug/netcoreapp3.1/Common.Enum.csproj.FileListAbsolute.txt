@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\sample-codesnippet-main\Common.Enum\bin\Debug\netcoreapp3.1\Common.Enum.deps.json
+C:\Users\User\source\repos\sample-codesnippet-main\Common.Enum\bin\Debug\netcoreapp3.1\Common.Enum.dll
+C:\Users\User\source\repos\sample-codesnippet-main\Common.Enum\bin\Debug\netcoreapp3.1\Common.Enum.pdb
+C:\Users\User\source\repos\sample-codesnippet-main\Common.Enum\obj\Debug\netcoreapp3.1\Common.Enum.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\sample-codesnippet-main\Common.Enum\obj\Debug\netcoreapp3.1\Common.Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\sample-codesnippet-main\Common.Enum\obj\Debug\netcoreapp3.1\Common.Enum.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\sample-codesnippet-main\Common.Enum\obj\Debug\netcoreapp3.1\Common.Enum.AssemblyInfo.cs
+C:\Users\User\source\repos\sample-codesnippet-main\Common.Enum\obj\Debug\netcoreapp3.1\Common.Enum.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\sample-codesnippet-main\Common.Enum\obj\Debug\netcoreapp3.1\Common.Enum.dll
+C:\Users\User\source\repos\sample-codesnippet-main\Common.Enum\obj\Debug\netcoreapp3.1\Common.Enum.pdb

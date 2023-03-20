@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\sample-codesnippet-main\Core.SMS\bin\Debug\netcoreapp3.1\Core.SMS.deps.json
+C:\Users\User\source\repos\sample-codesnippet-main\Core.SMS\bin\Debug\netcoreapp3.1\Core.SMS.dll
+C:\Users\User\source\repos\sample-codesnippet-main\Core.SMS\bin\Debug\netcoreapp3.1\Core.SMS.pdb
+C:\Users\User\source\repos\sample-codesnippet-main\Core.SMS\obj\Debug\netcoreapp3.1\Core.SMS.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\sample-codesnippet-main\Core.SMS\obj\Debug\netcoreapp3.1\Core.SMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\sample-codesnippet-main\Core.SMS\obj\Debug\netcoreapp3.1\Core.SMS.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\sample-codesnippet-main\Core.SMS\obj\Debug\netcoreapp3.1\Core.SMS.AssemblyInfo.cs
+C:\Users\User\source\repos\sample-codesnippet-main\Core.SMS\obj\Debug\netcoreapp3.1\Core.SMS.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\sample-codesnippet-main\Core.SMS\obj\Debug\netcoreapp3.1\Core.SMS.dll
+C:\Users\User\source\repos\sample-codesnippet-main\Core.SMS\obj\Debug\netcoreapp3.1\Core.SMS.pdb

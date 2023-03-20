@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\sample-codesnippet-main\Logger\bin\Debug\netcoreapp3.1\Logger.deps.json
+C:\Users\User\source\repos\sample-codesnippet-main\Logger\bin\Debug\netcoreapp3.1\Logger.dll
+C:\Users\User\source\repos\sample-codesnippet-main\Logger\bin\Debug\netcoreapp3.1\Logger.pdb
+C:\Users\User\source\repos\sample-codesnippet-main\Logger\bin\Debug\netcoreapp3.1\Common.Model.dll
+C:\Users\User\source\repos\sample-codesnippet-main\Logger\bin\Debug\netcoreapp3.1\Common.Model.pdb
+C:\Users\User\source\repos\sample-codesnippet-main\Logger\obj\Debug\netcoreapp3.1\Logger.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\sample-codesnippet-main\Logger\obj\Debug\netcoreapp3.1\Logger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\sample-codesnippet-main\Logger\obj\Debug\netcoreapp3.1\Logger.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\sample-codesnippet-main\Logger\obj\Debug\netcoreapp3.1\Logger.AssemblyInfo.cs
+C:\Users\User\source\repos\sample-codesnippet-main\Logger\obj\Debug\netcoreapp3.1\Logger.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\sample-codesnippet-main\Logger\obj\Debug\netcoreapp3.1\Logger.csproj.CopyComplete
+C:\Users\User\source\repos\sample-codesnippet-main\Logger\obj\Debug\netcoreapp3.1\Logger.dll
+C:\Users\User\source\repos\sample-codesnippet-main\Logger\obj\Debug\netcoreapp3.1\Logger.pdb

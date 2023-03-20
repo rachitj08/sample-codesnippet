@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="SendGrid" Version="9.28.0" />
+		<PackageReference Include="Twilio" Version="5.75.1" />
+		<PackageReference Include="Google.Apis.Oauth2.v2" Version="1.57.0.1869" />
+		<PackageReference Include="MailKit" Version="3.2.0" />
+	</ItemGroup>
+</Project>

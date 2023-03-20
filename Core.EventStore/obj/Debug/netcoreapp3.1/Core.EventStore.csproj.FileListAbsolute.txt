@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\sample-codesnippet-main\Core.EventStore\bin\Debug\netcoreapp3.1\Core.EventStore.deps.json
+C:\Users\User\source\repos\sample-codesnippet-main\Core.EventStore\bin\Debug\netcoreapp3.1\Core.EventStore.dll
+C:\Users\User\source\repos\sample-codesnippet-main\Core.EventStore\bin\Debug\netcoreapp3.1\Core.EventStore.pdb
+C:\Users\User\source\repos\sample-codesnippet-main\Core.EventStore\obj\Debug\netcoreapp3.1\Core.EventStore.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\sample-codesnippet-main\Core.EventStore\obj\Debug\netcoreapp3.1\Core.EventStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\sample-codesnippet-main\Core.EventStore\obj\Debug\netcoreapp3.1\Core.EventStore.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\sample-codesnippet-main\Core.EventStore\obj\Debug\netcoreapp3.1\Core.EventStore.AssemblyInfo.cs
+C:\Users\User\source\repos\sample-codesnippet-main\Core.EventStore\obj\Debug\netcoreapp3.1\Core.EventStore.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\sample-codesnippet-main\Core.EventStore\obj\Debug\netcoreapp3.1\Core.EventStore.dll
+C:\Users\User\source\repos\sample-codesnippet-main\Core.EventStore\obj\Debug\netcoreapp3.1\Core.EventStore.pdb

@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\sample-codesnippet-main\Sample.Admin.Modal\bin\Debug\netcoreapp3.1\Sample.Admin.Model.deps.json
+C:\Users\User\source\repos\sample-codesnippet-main\Sample.Admin.Modal\bin\Debug\netcoreapp3.1\Sample.Admin.Model.dll
+C:\Users\User\source\repos\sample-codesnippet-main\Sample.Admin.Modal\bin\Debug\netcoreapp3.1\Sample.Admin.Model.pdb
+C:\Users\User\source\repos\sample-codesnippet-main\Sample.Admin.Modal\obj\Debug\netcoreapp3.1\Sample.Admin.Model.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\sample-codesnippet-main\Sample.Admin.Modal\obj\Debug\netcoreapp3.1\Sample.Admin.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\sample-codesnippet-main\Sample.Admin.Modal\obj\Debug\netcoreapp3.1\Sample.Admin.Model.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\sample-codesnippet-main\Sample.Admin.Modal\obj\Debug\netcoreapp3.1\Sample.Admin.Model.AssemblyInfo.cs
+C:\Users\User\source\repos\sample-codesnippet-main\Sample.Admin.Modal\obj\Debug\netcoreapp3.1\Sample.Admin.Model.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\sample-codesnippet-main\Sample.Admin.Modal\obj\Debug\netcoreapp3.1\Sample.Admin.Model.dll
+C:\Users\User\source\repos\sample-codesnippet-main\Sample.Admin.Modal\obj\Debug\netcoreapp3.1\Sample.Admin.Model.pdb

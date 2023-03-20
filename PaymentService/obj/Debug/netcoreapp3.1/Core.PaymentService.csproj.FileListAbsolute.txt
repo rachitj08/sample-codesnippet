@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\sample-codesnippet-main\PaymentService\bin\Debug\netcoreapp3.1\Core.PaymentService.deps.json
+C:\Users\User\source\repos\sample-codesnippet-main\PaymentService\bin\Debug\netcoreapp3.1\Core.PaymentService.dll
+C:\Users\User\source\repos\sample-codesnippet-main\PaymentService\bin\Debug\netcoreapp3.1\Core.PaymentService.pdb
+C:\Users\User\source\repos\sample-codesnippet-main\PaymentService\obj\Debug\netcoreapp3.1\Core.PaymentService.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\sample-codesnippet-main\PaymentService\obj\Debug\netcoreapp3.1\Core.PaymentService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\sample-codesnippet-main\PaymentService\obj\Debug\netcoreapp3.1\Core.PaymentService.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\sample-codesnippet-main\PaymentService\obj\Debug\netcoreapp3.1\Core.PaymentService.AssemblyInfo.cs
+C:\Users\User\source\repos\sample-codesnippet-main\PaymentService\obj\Debug\netcoreapp3.1\Core.PaymentService.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\sample-codesnippet-main\PaymentService\obj\Debug\netcoreapp3.1\Core.PaymentService.dll
+C:\Users\User\source\repos\sample-codesnippet-main\PaymentService\obj\Debug\netcoreapp3.1\Core.PaymentService.pdb

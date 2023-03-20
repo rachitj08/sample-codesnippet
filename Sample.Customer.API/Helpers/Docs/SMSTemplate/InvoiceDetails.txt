@@ -1,0 +1,3 @@
+﻿Dear ##UserName##,
+Thank you for being with us.
+Total amount for your reservation (##ReservationCode##) is ##Amount## USD.

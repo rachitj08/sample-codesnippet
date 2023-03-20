@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\sample-codesnippet-main\Core.Email\bin\Debug\netcoreapp3.1\Core.Email.deps.json
+C:\Users\User\source\repos\sample-codesnippet-main\Core.Email\bin\Debug\netcoreapp3.1\Core.Email.dll
+C:\Users\User\source\repos\sample-codesnippet-main\Core.Email\bin\Debug\netcoreapp3.1\Core.Email.pdb
+C:\Users\User\source\repos\sample-codesnippet-main\Core.Email\obj\Debug\netcoreapp3.1\Core.Email.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\sample-codesnippet-main\Core.Email\obj\Debug\netcoreapp3.1\Core.Email.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\sample-codesnippet-main\Core.Email\obj\Debug\netcoreapp3.1\Core.Email.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\sample-codesnippet-main\Core.Email\obj\Debug\netcoreapp3.1\Core.Email.AssemblyInfo.cs
+C:\Users\User\source\repos\sample-codesnippet-main\Core.Email\obj\Debug\netcoreapp3.1\Core.Email.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\sample-codesnippet-main\Core.Email\obj\Debug\netcoreapp3.1\Core.Email.dll
+C:\Users\User\source\repos\sample-codesnippet-main\Core.Email\obj\Debug\netcoreapp3.1\Core.Email.pdb

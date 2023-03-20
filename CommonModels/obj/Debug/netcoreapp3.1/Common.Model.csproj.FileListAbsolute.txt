@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\sample-codesnippet-main\CommonModels\bin\Debug\netcoreapp3.1\Common.Model.deps.json
+C:\Users\User\source\repos\sample-codesnippet-main\CommonModels\bin\Debug\netcoreapp3.1\Common.Model.dll
+C:\Users\User\source\repos\sample-codesnippet-main\CommonModels\bin\Debug\netcoreapp3.1\Common.Model.pdb
+C:\Users\User\source\repos\sample-codesnippet-main\CommonModels\obj\Debug\netcoreapp3.1\Common.Model.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\sample-codesnippet-main\CommonModels\obj\Debug\netcoreapp3.1\Common.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\sample-codesnippet-main\CommonModels\obj\Debug\netcoreapp3.1\Common.Model.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\sample-codesnippet-main\CommonModels\obj\Debug\netcoreapp3.1\Common.Model.AssemblyInfo.cs
+C:\Users\User\source\repos\sample-codesnippet-main\CommonModels\obj\Debug\netcoreapp3.1\Common.Model.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\sample-codesnippet-main\CommonModels\obj\Debug\netcoreapp3.1\Common.Model.dll
+C:\Users\User\source\repos\sample-codesnippet-main\CommonModels\obj\Debug\netcoreapp3.1\Common.Model.pdb

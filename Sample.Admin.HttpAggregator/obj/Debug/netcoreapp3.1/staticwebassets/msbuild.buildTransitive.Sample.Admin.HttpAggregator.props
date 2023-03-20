@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Sample.Admin.HttpAggregator.props" />
+</Project>

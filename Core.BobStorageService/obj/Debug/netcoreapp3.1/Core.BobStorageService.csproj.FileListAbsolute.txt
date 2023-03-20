@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\sample-codesnippet-main\Core.BobStorageService\bin\Debug\netcoreapp3.1\Core.BobStorageService.deps.json
+C:\Users\User\source\repos\sample-codesnippet-main\Core.BobStorageService\bin\Debug\netcoreapp3.1\Core.BobStorageService.dll
+C:\Users\User\source\repos\sample-codesnippet-main\Core.BobStorageService\bin\Debug\netcoreapp3.1\Core.BobStorageService.pdb
+C:\Users\User\source\repos\sample-codesnippet-main\Core.BobStorageService\obj\Debug\netcoreapp3.1\Core.BobStorageService.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\sample-codesnippet-main\Core.BobStorageService\obj\Debug\netcoreapp3.1\Core.BobStorageService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\sample-codesnippet-main\Core.BobStorageService\obj\Debug\netcoreapp3.1\Core.BobStorageService.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\sample-codesnippet-main\Core.BobStorageService\obj\Debug\netcoreapp3.1\Core.BobStorageService.AssemblyInfo.cs
+C:\Users\User\source\repos\sample-codesnippet-main\Core.BobStorageService\obj\Debug\netcoreapp3.1\Core.BobStorageService.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\sample-codesnippet-main\Core.BobStorageService\obj\Debug\netcoreapp3.1\Core.BobStorageService.dll
+C:\Users\User\source\repos\sample-codesnippet-main\Core.BobStorageService\obj\Debug\netcoreapp3.1\Core.BobStorageService.pdb

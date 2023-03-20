@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\sample-codesnippet-main\Sample.Customer.Model\bin\Debug\netcoreapp3.1\Sample.Customer.Model.deps.json
+C:\Users\User\source\repos\sample-codesnippet-main\Sample.Customer.Model\bin\Debug\netcoreapp3.1\Sample.Customer.Model.dll
+C:\Users\User\source\repos\sample-codesnippet-main\Sample.Customer.Model\bin\Debug\netcoreapp3.1\Sample.Customer.Model.pdb
+C:\Users\User\source\repos\sample-codesnippet-main\Sample.Customer.Model\bin\Debug\netcoreapp3.1\Common.Enum.dll
+C:\Users\User\source\repos\sample-codesnippet-main\Sample.Customer.Model\bin\Debug\netcoreapp3.1\Core.PaymentService.dll
+C:\Users\User\source\repos\sample-codesnippet-main\Sample.Customer.Model\bin\Debug\netcoreapp3.1\Common.Enum.pdb
+C:\Users\User\source\repos\sample-codesnippet-main\Sample.Customer.Model\bin\Debug\netcoreapp3.1\Core.PaymentService.pdb
+C:\Users\User\source\repos\sample-codesnippet-main\Sample.Customer.Model\obj\Debug\netcoreapp3.1\Sample.Customer.Model.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\sample-codesnippet-main\Sample.Customer.Model\obj\Debug\netcoreapp3.1\Sample.Customer.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\sample-codesnippet-main\Sample.Customer.Model\obj\Debug\netcoreapp3.1\Sample.Customer.Model.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\sample-codesnippet-main\Sample.Customer.Model\obj\Debug\netcoreapp3.1\Sample.Customer.Model.AssemblyInfo.cs
+C:\Users\User\source\repos\sample-codesnippet-main\Sample.Customer.Model\obj\Debug\netcoreapp3.1\Sample.Customer.Model.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\sample-codesnippet-main\Sample.Customer.Model\obj\Debug\netcoreapp3.1\Sample.Customer.Model.csproj.CopyComplete
+C:\Users\User\source\repos\sample-codesnippet-main\Sample.Customer.Model\obj\Debug\netcoreapp3.1\Sample.Customer.Model.dll
+C:\Users\User\source\repos\sample-codesnippet-main\Sample.Customer.Model\obj\Debug\netcoreapp3.1\Sample.Customer.Model.pdb

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wTFiFy93U0/entmwP1RYMJ0CSyBdvoWd1PiXf9Kor/IP3hHPnZmDSMXJDbQ+1JFjuDNfOXYPEAo5gK7Ejz5uOw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\sample-codesnippet-main\\Core.API\\Core.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

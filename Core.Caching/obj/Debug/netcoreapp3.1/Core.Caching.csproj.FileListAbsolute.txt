@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\sample-codesnippet-main\Core.Caching\bin\Debug\netcoreapp3.1\Core.Caching.deps.json
+C:\Users\User\source\repos\sample-codesnippet-main\Core.Caching\bin\Debug\netcoreapp3.1\Core.Caching.dll
+C:\Users\User\source\repos\sample-codesnippet-main\Core.Caching\bin\Debug\netcoreapp3.1\Core.Caching.pdb
+C:\Users\User\source\repos\sample-codesnippet-main\Core.Caching\obj\Debug\netcoreapp3.1\Core.Caching.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\sample-codesnippet-main\Core.Caching\obj\Debug\netcoreapp3.1\Core.Caching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\sample-codesnippet-main\Core.Caching\obj\Debug\netcoreapp3.1\Core.Caching.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\sample-codesnippet-main\Core.Caching\obj\Debug\netcoreapp3.1\Core.Caching.AssemblyInfo.cs
+C:\Users\User\source\repos\sample-codesnippet-main\Core.Caching\obj\Debug\netcoreapp3.1\Core.Caching.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\sample-codesnippet-main\Core.Caching\obj\Debug\netcoreapp3.1\Core.Caching.dll
+C:\Users\User\source\repos\sample-codesnippet-main\Core.Caching\obj\Debug\netcoreapp3.1\Core.Caching.pdb

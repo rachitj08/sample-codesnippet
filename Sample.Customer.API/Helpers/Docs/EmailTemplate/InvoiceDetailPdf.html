@@ -1,0 +1,124 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>PDF</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <style>
+        body {
+            background-color: #fff;
+            font-family: arial;
+            font-size: 16px;
+            color: #212529;
+        }
+
+        .item-table tbody tr td {
+            border-right: 1px solid #593dba;
+            background-color: rgba(204,204,204,.6);
+            border-bottom: 1px solid #fff;
+        }
+
+        .item-table tbody tr:nth-child(odd) td {
+            background-color: rgba(204,204,204,.3);
+        }
+
+        .item-table tbody td:last-child {
+            border-right: 0px;
+        }
+
+        .item-table tbody tr:last-child td {
+            border-bottom: 0px;
+        }
+
+        @page {
+            margin: 10px 20px 20px 20px;
+        }
+
+        footer {
+            position: fixed;
+            bottom: -60px;
+            left: 0px;
+            right: 0px;
+            height: 50px;
+            font-size: 20px !important;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div style="font-family: arial; color: #000; background-color: #fff; border-top: 8px solid #5a3eb9; max-width: 800px; margin: auto;" page-break-after: always;>
+        <div style="min-height: 1000px; background-image: url(https://demo13.damcogroup.com:32783/customer-service/AccountLogo/BgSampleLogo.png); background-repeat: no-repeat; background-size: 520px; background-position: center;">
+            <div style="padding:25px; border-bottom:2px solid #000;">
+                <table width="100%" cellspacing="0px">
+                    <tbody>
+                        <tr>
+                            <td>
+                                <table width="100%">
+                                    <tbody>
+                                        <tr>
+                                            <td>
+                                                <table width="100%">
+                                                    <tbody>
+                                                        <tr>
+                                                            <td> <span style="color:#7f7f7f; font-size:28px; font-weight:bold; border-bottom:3px solid #7f7f7f;"> INVOICE </span> </td>
+                                                        </tr>
+                                                        <tr> <td>&nbsp;</td> </tr>
+                                                        <tr>
+                                                            <td>
+                                                                <table class="top-detail-table" width="100%" style="font-size:16px;">
+                                                                    <tbody>
+                                                                        <tr> <td style="font-weight: bold; padding:5px 0px;"> Name : </td> <td style="padding:5px 0px;"> ##UserName## </td> </tr>
+                                                                        <tr> <td style="font-weight: bold; padding:5px 0px;"> Invoice No : </td> <td style="padding:5px 0px;"> ##InvoiceNo## </td> </tr>
+                                                                        <tr> <td style="font-weight: bold; padding:5px 0px;"> Start Date : </td> <td style="padding:5px 0px;"> ##StartDate## </td> </tr>
+                                                                        <tr> <td style="font-weight: bold; padding:5px 0px;"> End Date : </td> <td style="padding:5px 0px;"> ##EndDate## </td> </tr>
+                                                                    </tbody>
+                                                                </table>
+                                                            </td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </td>
+                            <td valign="top">
+                                <table width="100%">
+                                    <tbody>
+                                        <tr>
+                                            <td align="right">
+                                                <img alt="Sample Logo" src="https://demo13.damcogroup.com:32783/customer-service/AccountLogo/SampleLogo.png" style="max-width:160px;" />
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </td>
+
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <div style="padding:25px; margin-bottom:20px;">
+                ##InvoiceDetails##
+            </div>
+
+        </div>
+    </div>
+
+    <footer>
+        <div style="background-color:#f5f5f5;font-size:14px;">
+            <table width="100%" cellpadding="15px">
+                <tbody>
+                    <tr>
+                        <td align="center" style="padding: 15px"> Copyright ©2022 Sample All rights reserved. </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </footer>
+
+
+</body>
+</html>
